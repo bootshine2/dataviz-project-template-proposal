@@ -8,7 +8,7 @@ The data I propose to visualize for my project is the data that shows the number
 
 I’ve created proof of concept visualizations of this data. The first is a US map that shows the loss of bee colonies by state on a geographic (US states) map that varies in color within state shading to show heavier or lighter bee colony loss. The second, third, and fourth are the variance of bee colony count, beekeeper count, and bee colony loss by state and by year in a heatmap. For visual referene, I would like to create a fifth, sixth and seventh visualization that are the same data as the previous 3 visualizations, but in a multitiered sunburst visualization, in order to see if any patterns better emerge there.
 
-[![image](https://beta.vizhub.com/bootshine2/499fa3697a8247a48c626233b6245039?edit=files&file=Marks.js&mode=full)](https://beta.vizhub.com/bootshine2/499fa3697a8247a48c626233b6245039)
+[![image](https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/us.png?raw=true)](https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/us.png?raw=true)
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
 
