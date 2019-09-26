@@ -35,7 +35,7 @@ The second sketch shows a heatmap used for the 3 types of data by state and by y
 https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/Bees1.jpg?raw=true
 
 The third sketch shows the same data in sunburst diagrams, in order to determine if the visual representation provides additional insight.
-[![image]()]
+[![image](https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/Bees2.jpg?raw=true)]https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/Bees2.jpg?raw=true
 
 
 ## Open Questions
