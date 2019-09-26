@@ -10,6 +10,8 @@ I’ve created proof of concept visualizations of this data. The first is a US m
 
 [![image](https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/us.png?raw=true)](https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/us.png?raw=true)
 
+https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/heatmapBeeLoss.png?raw=true
+
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
 
 ## Questions & Tasks
