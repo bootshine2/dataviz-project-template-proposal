@@ -26,7 +26,9 @@ The following tasks and questions will drive the visualization and interaction d
 ## Sketches
 
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+The first sketch is a US Map that shows loss by state over time of bee colonies.
+[![image](https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/BeeLossByStatebyyear.png?raw=true)]
+https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/BeeLossByStatebyyear.png?raw=true
 
 ## Open Questions
 
