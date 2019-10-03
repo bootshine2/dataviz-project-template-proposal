@@ -28,15 +28,15 @@ The following tasks and questions will drive the visualization and interaction d
 
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine)
 The first sketch is a US Map that shows loss by state over time of bee colonies.
-[![image](https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/BeeLossByStatebyyear.png?raw=true)]
-https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/BeeLossByStatebyyear.png?raw=true
+[![image](https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/BeeLossByStatebyyearWithDropdowns.png)]
+https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/BeeLossByStatebyyearWithDropdowns.png
 
 The second sketch shows a heatmap used for the 3 types of data by state and by year--bee colony loss (in percent), number of colonies, and number of beekeepers.
 [![image](https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/Bees1wDropdowns.jpg)]
 https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/Bees1wDropdowns.jpg
 
 The third sketch shows the same data in sunburst diagrams, in order to determine if the visual representation provides additional insight.
-[![image](https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/Bees2.jpg?raw=true)]https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/Bees2.jpg?raw=true
+[![image](https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/Bees2withDropDowns.jpg)]https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/Bees2withDropDowns.jpg
 
 
 ## Open Questions
