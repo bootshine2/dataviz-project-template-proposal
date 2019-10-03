@@ -22,6 +22,7 @@ The following tasks and questions will drive the visualization and interaction d
  * How does the number of bee colonies counted by census by state vary across years?
  * How does the number of beekeepers counted by census by state vary across years?
  * Is there any correlation between the above three statistics that shows or causes trends over time?
+ * (added 10/2): Do particular states trend down or up in percent bee colony loss, number of beekeepers, or number of colonies?
 
 ## Sketches
 
@@ -41,3 +42,39 @@ The third sketch shows the same data in sunburst diagrams, in order to determine
 ## Open Questions
 
 Describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system: I have figured out how to create basic plots using Vega-Lite and D3.js with React by following along, but I don't truly have a grasp on the available options for making new drawings. I would like to produce a US map that shows the states with color shading from green to red (green for good and red for bad) across time for bee colony loss, but I don't know how to: render the US states, and shade the states across time.
+
+## Schedule of Deliverables
+
+* Make the interactive US map of bee colonies and loss 10/10
+  * Make a D3.js heatmap
+  * Tie data to the D3.js heatmap
+  * Color the states by heatmapping for the selected field (colonies, beekeepers, or colony loss)
+  * Add dropdowns to the page
+    * Add dropdown to choose from: US map viz, heatmap, or sunburst
+    * Add dropdown to choose selected data field to display: (colonies, beekeepers, or colony loss)
+  * Make the page adjust based on dropdowns.
+
+* Make the interactive US map of bee colonies and loss 10/17
+  * Make a D3.js US states map
+  * Tie data to the D3.js US states map
+    * Create or determine data source. This should be a geoJSON topo map of the states.
+    * Put the data in D3.js with React using AlbersUsa or other correct topo library.
+  * Color the heatmap squares by heatmapping for the selected field (colonies, beekeepers, or colony loss)
+  * Add dropdowns to the page
+    * Add dropdown to choose from: US map viz, heatmap, or sunburst
+    * Add dropdown to choose selected data field to display: (colonies, beekeepers, or colony loss)
+  * Make the page adjust based on dropdowns.
+  
+* Make the interactive sunburst or dendritic of bee colonies and loss 10/24
+  * Make a D3.js sunburst or dendritic
+  * Tie data to the D3.js display
+  * Color the arcs based on the selected field (colonies, beekeepers, or colony loss)
+  * Add dropdowns to the page
+    * Add dropdown to choose from: US map viz, heatmap, or sunburst
+    * Add dropdown to choose selected data field to display: (colonies, beekeepers, or colony loss)
+  * Make the page adjust based on dropdowns.
+  
+* Add narrative to the page and finalize 10/31
+  * Show how the data helps the reader understand the answer to the questions
+  * provide explanation of where the data came from and background on why the subject is important.
+
