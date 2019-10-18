@@ -53,7 +53,7 @@ Describe any fear, uncertainty, or doubt you’re having about the feasibility o
   * Make the page adjust based on dropdowns.
   (*Note that I am still working on the dropdown and getting the color right. But I'm making forward progress, here below*)
   
-  [[Bee Colony Scatterplot/Heatmap](https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/BeeColonyLossScatterplot.jpg)](https://beta.vizhub.com/bootshine2/1ab048f3d6b14f91869d618fe70f1eb2?mode=full)
+  [![Image](https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/BeeColonyLossScatterplot.jpg)](https://beta.vizhub.com/bootshine2/1ab048f3d6b14f91869d618fe70f1eb2?mode=full)
 
 * Make the interactive US map of bee colonies and loss 10/17
   * Make a D3.js US states map
