@@ -76,6 +76,8 @@ Describe any fear, uncertainty, or doubt you’re having about the feasibility o
     * Add dropdown to choose from: US map viz, heatmap, or sunburst
     * Add dropdown to choose selected data field to display: (colonies, beekeepers, or colony loss)
   * Make the page adjust based on dropdowns.
+  (*Working on tne dropdowns still. But here is the treemap as opposed to the dendritic. *)
+  [![Image](https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/treemap.png)](https://beta.vizhub.com/bootshine2/ada11d6edcc44b5ca57297f6c2acc879?edit=files&file=index.html&mode=full)
   
 * Add narrative to the page and finalize 10/31
   * Show how the data helps the reader understand the answer to the questions
