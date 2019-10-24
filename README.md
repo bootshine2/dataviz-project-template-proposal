@@ -65,8 +65,8 @@ Describe any fear, uncertainty, or doubt you’re having about the feasibility o
     * Add dropdown to choose from: US map viz, heatmap, or sunburst
     * Add dropdown to choose selected data field to display: (colonies, beekeepers, or colony loss)
   * Make the page adjust based on dropdowns.
-  (*Note again that my colors are off and i am still working on tooltips and dropdown. But I'm getting there...*)
-  [![Image](https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/BeeColonyLossStateMap.jpg)](https://beta.vizhub.com/bootshine2/daf80e80faf54d67a61de8f53e55506e?edit=files&file=index.js&mode=full)
+  (*Colors are now right. still working on tooltips and dropdown. But I'm getting there...*)
+  [![Image](https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/bee%20loss%20cloropleth.png)](https://beta.vizhub.com/bootshine2/daf80e80faf54d67a61de8f53e55506e?edit=files&file=index.js&mode=full)
   
 * Make the interactive sunburst or dendritic of bee colonies and loss 10/24
   * Make a D3.js sunburst or dendritic
