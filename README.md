@@ -93,7 +93,13 @@ Describe any fear, uncertainty, or doubt you’re having about the feasibility o
   
   I wasn't able to figure out how to get the code to pull my data, but I was able to use JS code to transpose my CSV file of bee colony loss data to the right form of JSON file using the code in VizHub at the following picture:
   [![Image](https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/JSONmaker.jpg)](https://beta.vizhub.com/bootshine2/beebcddb5fed4c7783b242816468ba9e)
+  
+## Narrative and exposition on what this data and these visualizations show, and why I chose to do this:
+
+In reiteration, my data originally came from [Data World (Bee Colony Loss.xlsx)](https://data.world/finley/bee-colony-statistical-data-from-1987-2017/workspace/file?filename=Bee+Colony+Loss.xlsx). It is statistical data from 1987 - 2017. The data provides information on (by state) the loss of bee colonies (by percent) annually, the number of known colonies, the number of known beekeepers, and the percentage of beekeepers exclusive to the state.
 
 I was really interested in bees, as my wife and I have considered starting a bee colony. We live on a river in Virginia and have the land and ability to start one. What I thought I would learn through the visualization of the data was that bees tend to colonize in particular areas of the US and that these areas either have remained reasonably constant or have shifted over time, but are not random. I also thought that the number of beekeepers would show the same trends, and that bee colony loss would as well. 
 
 What I discovered from visualizing the data is that there are specific states (e.g., California), where the bee colonization is typically higher, but that this really doesn't show a good trend, and that bee colonization numbers are truly variable across the US. This is good news, I suppose, in understanding that I can start a bee colony in Virginia, and can further start a colony in another state if I were to move. What would be interesting would be to understand whether there is similarity in data associated with specific types of bees. Unfortunately, that level of detail data is not available.
+
+I certainly hope you are able to take something away from this exposition! If you take one thing away, know that you can start a bee colony (under the right conditions) wherever you live!
