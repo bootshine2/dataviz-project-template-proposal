@@ -89,5 +89,5 @@ Describe any fear, uncertainty, or doubt you’re having about the feasibility o
   I tried to add the same code for the dropdown to the chloropleth after getting it to work with the scatterplot, but my lack of experience with JS Ecmascript 6 and also with D3 and React kept me from reaching my goal. Nevertheless, I added most of the code into the chloropleth already noted [here](https://beta.vizhub.com/bootshine2/daf80e80faf54d67a61de8f53e55506e?edit=files&file=index.js&mode=full). 
   
   Additionally, instead of the Treemap that I was able to make work and tie to my data, I intended to create a D3 sunburst. I was able to port code from an observablehq sunburst over to my page [here](https://beta.vizhub.com/bootshine2/762d08e3a7a746d3918e145b7b12aa95?edit=files&file=index.js&mode=full), but you'll notice from the picture below that it's the same data as from the original sunburst code example [here](https://observablehq.com/@d3/zoomable-sunburst).
-  [![Image](
+  [![Image](https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/FailedSunburst.jpg)](https://beta.vizhub.com/bootshine2/762d08e3a7a746d3918e145b7b12aa95?edit=files&file=index.js&mode=full)
 
