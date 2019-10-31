@@ -82,4 +82,12 @@ Describe any fear, uncertainty, or doubt you’re having about the feasibility o
 * Add narrative to the page and finalize 10/31
   * Show how the data helps the reader understand the answer to the questions
   * provide explanation of where the data came from and background on why the subject is important.
+  
+  This final week, I tried to add dropdown menus to my three major visualizations (multicolor scatterplot, chloropleth of bee data across US states, and treemap). I was able to get this working in one of them, shown here:
+  [![Image](https://github.com/bootshine2/dataviz-project-template-proposal/commit/0cdedc31a17e0e085174c190a9fd192ace0acbd9#diff-dcddb6fcad152899424e2a13aac67a0c)](https://beta.vizhub.com/bootshine2/0a0b3a03537842a4bb256086ff85ca21?edit=files&file=index.js&mode=full)
+  
+  I tried to add the same code for the dropdown to the chloropleth after getting it to work with the scatterplot, but my lack of experience with JS Ecmascript 6 and also with D3 and React kept me from reaching my goal. Nevertheless, I added most of the code into the chloropleth already noted [here](https://beta.vizhub.com/bootshine2/daf80e80faf54d67a61de8f53e55506e?edit=files&file=index.js&mode=full). 
+  
+  Additionally, instead of the Treemap that I was able to make work and tie to my data, I intended to create a D3 sunburst. I was able to port code from an observablehq sunburst over to my page [here](https://beta.vizhub.com/bootshine2/762d08e3a7a746d3918e145b7b12aa95?edit=files&file=index.js&mode=full), but you'll notice from the picture below that it's the same data as from the original sunburst code example [here](https://observablehq.com/@d3/zoomable-sunburst).
+  [![Image](
 
