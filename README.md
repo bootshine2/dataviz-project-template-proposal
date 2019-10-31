@@ -103,4 +103,8 @@ I was really interested in bees, as my wife and I have considered starting a bee
 What I discovered from visualizing the data is that there are specific states (e.g., California), where the bee colonization is typically higher, but that this really doesn't show a good trend, and that bee colonization numbers are truly variable across the US. This is good news, I suppose, in understanding that I can start a bee colony in Virginia, and can further start a colony in another state if I were to move. What would be interesting would be to understand whether there is similarity in data associated with specific types of bees. Unfortunately, that level of detail data is not available.
 
 I certainly hope you are able to take something away from this exposition! If you take one thing away, know that you can start a bee colony (under the right conditions) wherever you live!
+
+## YouTube video of me explaining my project!
+You can go [here](https://youtu.be/hljrKtjxKXQ) to see the video where I explain why I took on this project and what I went through to complete it. Hopefully it inspires someone to continue looking into data visualization and/or bee colonization!
+
 ![Image](https://github.com/bootshine2/dataviz-project-template-proposal/blob/master/face.PNG)
